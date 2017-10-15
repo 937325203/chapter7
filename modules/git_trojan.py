@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 import json
 import base64
 import time
